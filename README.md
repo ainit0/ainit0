@@ -1,1 +1,1 @@
-AI selfhosted
+Agent selfhosted
